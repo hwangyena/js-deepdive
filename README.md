@@ -1,4 +1,7 @@
 # 모던 자바스크립트 Deep Dive Study
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 > ⏱️ 매주 금요일, 14:00 - 15:00에 고정적으로 진행합니다.  
 > 📚 ”js deepdive” 을 정해진 분량만큼 학습하고 토론합니다.  
@@ -14,8 +17,28 @@ js deepdive 스터디 기록용 공간입니다.<br/>
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@hwangyena"><img src="https://avatars.githubusercontent.com/u/70925962?v=4?s=100" width="100px;" alt="yesme"/><br /><sub><b>yesme</b></sub></a><br /><a href="#infra-hwangyena" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/hwangyena/js-deepdive/commits?author=hwangyena" title="Tests">⚠️</a> <a href="https://github.com/hwangyena/js-deepdive/commits?author=hwangyena" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
