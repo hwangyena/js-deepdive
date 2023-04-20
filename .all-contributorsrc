@@ -16,6 +16,28 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "hijh1200",
+      "name": "Park Jin Hyeong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89106773?v=4",
+      "profile": "https://velog.io/@hijh1200",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    },
+    {
+      "login": "sunghyuki",
+      "name": "sunghyuki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62830487?v=4",
+      "profile": "https://github.com/sunghyuki",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
