@@ -27,6 +27,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "sunghyuki",
+      "name": "sunghyuki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62830487?v=4",
+      "profile": "https://github.com/sunghyuki",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
