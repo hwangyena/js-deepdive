@@ -16,6 +16,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "hyongti",
+      "name": "hyeonkim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68804133?v=4",
+      "profile": "https://github.com/hyongti",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
