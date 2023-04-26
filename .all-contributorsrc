@@ -49,6 +49,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "ohhamin",
+      "name": "ohhamin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97592457?v=4",
+      "profile": "https://github.com/ohhamin",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
